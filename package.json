@@ -1,6 +1,6 @@
 {
   "name": "@damonkcey/react-library-boilerplate",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "a library boilerplate",
   "scripts": {
     "rollup": "rollup -c"
